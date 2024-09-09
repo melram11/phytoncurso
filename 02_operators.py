@@ -44,3 +44,12 @@ if nombre_valido and contrasena_valida:
     print("Credenciales Validas")
 else:
     print("Error en las credenciales: " + "Contrasena debe contener 8 digitos!!")
+
+
+numero = int(input("Ingrese un Numero Entero: "))
+
+if numero % 2 == 0:
+    print(f"{numero} es un numero Par: ")
+else:
+    print(f"{numero} no es un numero Impar: " )
+
