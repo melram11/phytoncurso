@@ -1,3 +1,23 @@
+### Operadores Aritmeticos ###
+
+print(3 + 4) # Suma
+print(3 - 4) # Resta
+print(3 * 4) # Multiplicación
+print(3 / 4) # División
+print(10 % 3) # Módulo
+print(3 ** 4) # Potencia
+print(10 // 3) # División entera
+
+print("Hola " + "Python") # Concatenación
+print("Hola " * 3) # Repetición
+print("Hola " + "Python " + "que tal?" )
+print("Hola " + str(5))
+print("Hola " * 5 )
+print("Hola " * (2 ** 3))
+
+my_float = 2.5 * 2
+print("Hola " * int(my_float))
+
 print("Hola " + "Phyton " + 'Que tal?')
 print("Hola" > "Phyton")
 
