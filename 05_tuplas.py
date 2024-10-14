@@ -22,3 +22,19 @@ print(my_tuple.index("Melvin"))
 
 my_sum_tuplas = my_tuple + my_other_tuple
 print(my_sum_tuplas)
+
+print(my_sum_tuplas[3:6])
+
+my_tuple = list(my_tuple)
+print(type(my_tuple))
+
+my_tuple[4] = "Melramdev"
+my_tuple.insert(1, "Azul")
+print = tuple(my_tuple)
+print (my_tuple)
+print(type(my_tuple))
+
+#del my_tuple[2]
+
+del my_tuple
+#print(my_tuple)
