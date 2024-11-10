@@ -42,7 +42,7 @@ print(age)
 # Forzamos el tipo?
 address: str = "Mi direccion"
 address = 32
-<<<<<<< HEAD
+
 print(type(address)) 
-=======
+
 print(type(address))
