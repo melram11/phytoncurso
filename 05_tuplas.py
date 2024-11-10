@@ -38,3 +38,4 @@ print(type(my_tuple))
 
 del my_tuple
 #print(my_tuple)
+print(my_other_tuple)
