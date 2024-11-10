@@ -6,6 +6,10 @@ my_other_tuple = ()
 my_tuple = (24 , 1.75, "Melvin", "Ramos", "Melvin")
 my_other_tuple = (35, 60, 30)
 
+my_new_tuple = tuple()
+my_new_tuple = (25, 1.85, "Joaquin", "Marquez", "Joaquin") 
+print(my_new_tuple)
+
 print(my_tuple)
 print(type(my_tuple))
 
@@ -31,14 +35,13 @@ print(type(my_tuple))
 my_tuple[4] = "Melramdev"
 my_tuple.insert(1, "Azul")
 print = tuple(my_tuple)
-print (my_tuple)
+print(my_tuple)
 print(type(my_tuple))
 
 #del my_tuple[2]
 
 del my_tuple
-<<<<<<< HEAD
+
 #print(my_tuple)
 print(my_other_tuple)
-=======
-#print(my_tuple)
+
