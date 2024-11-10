@@ -42,4 +42,3 @@ del my_tuple
 print(my_other_tuple)
 =======
 #print(my_tuple)
->>>>>>> 4704fafcbf8a0c8d7c3f3cb262a6b9fd3d12e57c
